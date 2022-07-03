@@ -28,7 +28,7 @@
 
 ## BIOS
 
-![interface](USB interface.png)
+![interface](./Picture/interface.png)
 
 ## 安装（务必看一下）
 
