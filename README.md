@@ -16,15 +16,21 @@
 
 ## 系统
 
+* iMac20,2
 * BootLoad: opencore 0.8.2
 * OS: macOS Monterey 12.4
 
-### BIOS
+
+## BIOS
 
 > Version 2K211028
 > [下载地址](https://www.zotac.com/cn/files/download/mini_pcs?driver_type=238&m_pcs_series=179&m_pcs_os=2212&sku=ZBOX-ECM7307LH&skuSelect=ZBOX-ECM7307LH)
 
-### 安装（务必看一下）
+## BIOS
+
+![](./USB interface.png)
+
+## 安装（务必看一下）
 
 1. **下载官网最新的BIOS升级工具.**
 2. **解压缩至FAT32格式的U盘，替换由我提供的修改的B440P011.bin文件（已关闭CFG LOCK、DVMT设置64M、关闭开机提示音等）**
