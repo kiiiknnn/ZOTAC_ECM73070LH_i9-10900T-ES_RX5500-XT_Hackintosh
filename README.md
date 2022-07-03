@@ -26,7 +26,7 @@
 > Version 2K211028
 > [下载地址](https://www.zotac.com/cn/files/download/mini_pcs?driver_type=238&m_pcs_series=179&m_pcs_os=2212&sku=ZBOX-ECM7307LH&skuSelect=ZBOX-ECM7307LH)
 
-## BIOS
+## USB定制
 
 ![interface](./Picture/interface.png)
 
