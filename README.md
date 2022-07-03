@@ -1,4 +1,4 @@
-# 	ZOTAC MAGNUS ONE ZBOX-ECM73070LH Hackintosh
+# 	索泰 MAGNUS ONE ZBOX-ECM73070LH Hackintosh
 
 
 ## 配置
