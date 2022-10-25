@@ -17,23 +17,23 @@
 ## 系统
 
 * iMac20,2
-* BootLoad: opencore 0.8.2
-* OS: macOS Monterey 12.4
+* BootLoad: opencore 0.8.5
+* OS: macOS Ventura 13.0（22A380）
 
 
 ## BIOS
 
-> Version 2K211028
+> Version 2K220617
 > [下载地址](https://www.zotac.com/cn/files/download/mini_pcs?driver_type=238&m_pcs_series=179&m_pcs_os=2212&sku=ZBOX-ECM7307LH&skuSelect=ZBOX-ECM7307LH)
 
 ## USB定制
 
 ![interface](./Picture/interface.png)
 
-## 安装（务必看一下）
+## 安装（重要‼️）
 
 1. **下载官网最新的BIOS升级工具.**
-2. **解压缩至FAT32格式的U盘，替换由我提供的修改的B440P011.bin文件（已关闭CFG LOCK、DVMT设置64M、关闭开机提示音等）**
+2. **解压缩至FAT32格式的U盘，替换由我提供的修改的B440P013.bin文件（已关闭CFG LOCK&VT-d&BAR、DVMT设置64M等）**
 3. **重启按F8，选择U盘引导，键盘输入FLASH开始更新**
 4. **更新完毕自动重启，按DEL进入BIOS设置，按F9恢复一遍默认设置**
 5. **接下来你就可以使用我的EFI文件进行正常黑苹果的安装了**
