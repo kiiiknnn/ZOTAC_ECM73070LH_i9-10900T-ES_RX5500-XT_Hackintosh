@@ -359,7 +359,7 @@
         <dict>
             <key>Add</key>
             <dict>
-                <key>#PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+                <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
                 <dict>
                     <key>@0,name</key>
                     <string>ATY,Python</string>
@@ -1270,13 +1270,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string></string>
+                <string>C02026301GU0000FB</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
-                <integer>0</integer>
+                <integer>4101</integer>
                 <key>ROM</key>
-                <data></data>
+                <data>fEIZYqmD</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1284,9 +1284,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02CXBYU046M</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>1AB332AF-7C05-4845-963E-D41E5F9375B8</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>

@@ -17,8 +17,8 @@
 ## 系统
 
 * iMac20,2
-* BootLoad: opencore 0.8.5
-* OS: macOS Ventura 13.0（22A380）
+* BootLoad: opencore 0.9.0
+* OS: macOS Ventura 13.4 Beta（22F527f）
 
 
 ## BIOS
